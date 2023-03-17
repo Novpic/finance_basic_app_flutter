@@ -8,7 +8,7 @@ This project is build and develop in Flutter/Dart, it uses Firebase as data base
 
 ### Sign In/Up
 
-![plot](readme_images/sign_in_up.jpeg)
+![plot](readme_images/sign_in_up.jpeg){width=40%, height = 40%}
 
 ### HomePage
 
