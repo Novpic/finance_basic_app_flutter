@@ -22,3 +22,8 @@ This project is build and develop in Flutter/Dart, it uses Firebase as data base
 <img src="readme_images/edit_transaction.jpeg" width="300">
 <img src="readme_images/edit_transaction_with_image.jpeg" width="300">
 
+
+
+## TODO LIST
+Create  the map implementation
+Create the resume information via email
