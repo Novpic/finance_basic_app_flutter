@@ -8,12 +8,12 @@ This project is build and develop in Flutter/Dart, it uses Firebase as data base
 
 ### Sign In/Up
 
-![plot](readme_images/sign_in_up.jpeg)
-<img src="readme_images/sign_in_up.jpeg" width="48">
+<img src="readme_images/sign_in_up.jpeg" width="480">
+
 
 ### HomePage
 
-![plot](readme_images/home_page.jpeg)
+<img src="readme_images/home_page.jpeg" width="200">
 
 ### Create Transaction
 ![plot](readme_images/new_transaction.jpeg)
