@@ -8,17 +8,17 @@ This project is build and develop in Flutter/Dart, it uses Firebase as data base
 
 ### Sign In/Up
 
-<img src="readme_images/sign_in_up.jpeg" width="480">
+<img src="readme_images/sign_in_up.jpeg" width="300">
 
 
 ### HomePage
 
-<img src="readme_images/home_page.jpeg" width="200">
+<img src="readme_images/home_page.jpeg" width="300">
 
 ### Create Transaction
-![plot](readme_images/new_transaction.jpeg)
+<img src="readme_images/new_transaction.jpeg" width="300">
 
 ### Edit Transaction
+<img src="readme_images/edit_transaction.jpeg" width="300">
+<img src="readme_images/edit_transaction_with_image.jpeg" width="300">
 
-![plot](readme_images/edit_transaction.jpeg)
-![plot](readme_images/edit_transaction_with_image.jpeg)
