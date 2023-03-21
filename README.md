@@ -1,6 +1,6 @@
 # finance_basic_app_flutter
 
-This is a project I've work for a cuple days, it consist of a personal finance managment app. 
+This is a project I've work for a couple days, it consist of a personal finance managment app. 
 
 ## Getting Started
 
